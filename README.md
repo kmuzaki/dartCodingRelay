@@ -1,1 +1,12 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+# Reflection about Today's Class and My Learning About *Dart* as A Whole
+
+To start things off, I would like to send my absolute appreciation and gratitude towards Pak Kasmir, who is my lecturer, for teaching me Visual Programming at college. He's friendly yet strict when it comes to assessing our assignment and work, which is totally fair and what I respected the most about him. Not to mention his teaching style makes the subject at least more fun and enjoyable. In this occassion, he tasked us to write a reflection of today's class and what I've learnt about *Dart* thus far of at least 200 words, thus the readme file you're about to read right now.
+
+## Absolute Chaotic Coding Relay
+...What else is there to say about today? It was chaotic, but fun. We were tasked to make a *Dart* CLI-based game of *Hangman* based on a given flowchart. At first, I, and everyone as whole, thought it'd be easy. Dear god, we were proven to be wrong so hard. It was the first time we had to read an *OOP* flowchart, unlike the more structurised flowchart we've read before. Not only that, but in every 10 minutes, we had to switch to another people's work. This was where I struggled the most, understanding other people's code.
+
+I was struggling to even comprehend the flowchart was given, but I had no choice but to just write everything down to the letter. It was driving me around the bend because I had to consider the SOLID principle, the effective *Dart* documention, DRY principle, KISS principle, you name it. On top of that, I didn't know the majority of the syntaxes I needed for my *Dart* program to work, since I was still under the influence of how programming was in Java.
+
+When it was time to switch to my classmate's work after 10 minutes, that was where things started to go unaccording to my expections. One guy had wrote everything in a single file. Another guy did the same, but in Bahasa Indonesia, which costed me a lot of time to reread their code first. But the biggest shock to me, is that one of my classmates' **hasn't even install the *Dart* SDK yet,** or maybe she did, but hasn't added it to the environment variables. Yeah. It costed me a lot of time and energy. 
+
+## Personal Thoughts and Hopes For Improvement
